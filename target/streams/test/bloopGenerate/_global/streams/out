@@ -1,0 +1,4 @@
+[debug] [eventModel-test] Classpath dependencies List()
+[debug] [eventModel-test] Dependencies from configurations List(eventModel)
+[debug] Bloop wrote the configuration of project 'eventModel-test' to '/home/tbess/src/mtl-example/.bloop/eventModel-test.json'
+[success] Generated .bloop/eventModel-test.json

@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0mBuilding debian package with native implementation[0m
+[0m[[0m[0minfo[0m] [0m[0mdpkg-deb: building package 'event-model' in '../event-model_0.1.0-SNAPSHOT_all.deb'.[0m
+[0m[[0m[31merror[0m] [0m[0mdpkg-deb: warning: parsing file '/home/tbess/src/event-model/target/event-model-0.1.0-SNAPSHOT/DEBIAN/control' near line 11 package 'event-model':[0m
+[0m[[0m[31merror[0m] [0m[0m missing maintainer[0m
+[0m[[0m[31merror[0m] [0m[0mdpkg-deb: warning: ignoring 1 warning about the control file(s)[0m
