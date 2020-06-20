@@ -1,3 +1,4 @@
-/.bloop
-/.circleci
-/.metals
+.bloop/
+.circleci/
+.metals/
+target
