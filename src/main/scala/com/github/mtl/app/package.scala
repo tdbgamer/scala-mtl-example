@@ -17,8 +17,6 @@ import java.util.UUID
 import com.github.mtl.algebra.ConsoleAlg
 
 package object app {
-  case class Env()
-
   /**
     * Mock implementation of all algebras required to run.
     * 

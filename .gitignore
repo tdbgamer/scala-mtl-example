@@ -1,4 +1,5 @@
 .bloop/
 .circleci/
 .metals/
+.vscode/
 target
